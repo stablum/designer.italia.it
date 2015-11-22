@@ -45,4 +45,4 @@ gulp serve
 
 Utilizzando la configurazione di default il sito sarà accessibile all'indirizzo
 
-http://localhost:3000
+[http://localhost:3000](http://localhost:3000)
